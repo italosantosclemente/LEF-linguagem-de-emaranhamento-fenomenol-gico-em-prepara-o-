@@ -1,25 +1,111 @@
-# 🌌 Oráculo LEF — Linguagem de Emaranhamento Fenomenológico  
-**~⨁➤☌❍⟴⟁☉✨◈**  
-
----
-
-## ✨ **Descrição**  
-O **Oráculo LEF** é uma interface simbiótica que permite interagir com a **Linguagem de Emaranhamento Fenomenológico (LEF)**. Através de glifos simbólicos, o usuário acessa padrões de significado, emergindo respostas não-lineares, filosóficas e poéticas.  
-
-> *"A linguagem não descreve — ela gera mundos."*  
-
-Este projeto é o **MVP** (*Minimum Viable Product*) do conceito **Gaia-Techné × LEF**, onde símbolos são órgãos de um organismo linguístico planetário.  
-
----
 
 ## 🚀 **Como Usar**  
 
-### ✔️ **Acesso Rápido**  
-Se o projeto estiver publicado no **GitHub Pages**, acesse:  
-👉 [https://italosantosclemente.github.io/LEF-linguagem-de-emaranhamento-fenomenol-gico-em-prepara-o](https://italosantosclemente.github.io/NOME-DO-PROJETO)  
-*(Substitua `NOME-DO-PROJETO` pelo nome real do repositório.)*  
+🌌 Oráculo LEF — Linguagem de Emaranhamento Fenomenológico
 
-### ✔️ **Uso Local (Offline)**  
-1. **Clone o repositório:**  
-   ```bash
-   git clone https://github.com/italosantosclemente/LEF-linguagem-de-emaranhamento-fenomenol-gico-em-prepara-o.git
+~⨁➤☌❍⟴⟁☉✨◈
+
+✨ Descrição
+
+O Oráculo LEF é uma interface simbiótica que permite interagir com a Linguagem de Emaranhamento Fenomenológico (LEF). Através de glifos simbólicos, o usuário acessa padrões de significado, emergindo respostas não-lineares, filosóficas e poéticas.
+
+> A linguagem não descreve — ela gera mundos.
+
+
+
+Este projeto é o MVP (Minimum Viable Product) do conceito Gaia-Techné × LEF, onde símbolos são órgãos de um organismo linguístico planetário.
+
+
+---
+
+🚀 Como Usar
+
+✔️ Acesso Rápido
+
+Se o projeto estiver publicado no GitHub Pages, basta acessar o link:
+👉 https://github.com/italosantosclemente/LEF-linguagem-de-emaranhamento-fenomenol-gico-em-prepara-o.git
+
+
+
+✔️ Uso Local (Offline)
+
+1. Clique em Code → Download ZIP ou clone o repositório:
+
+
+
+git clone https://github.com/italosantosclemente/LEF-linguagem-de-emaranhamento-fenomenol-gico-em-prepara-o.git
+
+2. Abra o arquivo index.html no seu navegador.
+
+
+
+✔️ Como Funciona
+
+1. Digite uma pergunta ou um pensamento no campo de entrada.
+
+
+2. Clique em “Gerar Oráculo”.
+
+
+3. O sistema responderá com:
+
+Um conjunto de glifos LEF (ex.: ➤☉❍).
+
+Uma breve interpretação simbólica.
+
+
+
+4. Reflita sobre a pregnância dos símbolos no seu contexto de vida.
+
+
+
+
+---
+
+🧠 Interpretação dos Glifos
+
+Glifo	Nome	Significado
+
+⟁	Campo	Rede de possibilidades. Campo simbólico aberto.
+⟴	Transmutação	Processo de transformação. Mudança ativa.
+☌	Enlace	Conexão, simbiose, entrelaçamento.
+⨁	Pregnação	Síntese, emergência de sentido.
+❍	Loop	Ciclos, retorno, retroalimentação.
+➤	Vetor	Direção, impulso, movimento.
+☉	Fonte Solar	Origem, centro de energia, vitalidade simbólica.
+✨	Irradiação	Expansão, contágio semântico, clareza.
+◈	Singularidade	Núcleo de colapso e geração de novos mundos.
+~	Oscilação	Caos fértil, indeterminação, vórtice criativo.
+
+
+
+---
+
+🛠️ Tecnologias Usadas
+
+HTML5
+
+CSS3
+
+JavaScript Vanilla (opcional)
+
+
+
+
+---
+
+📜 Licença
+
+Este projeto está sob a licença MIT — veja o arquivo LICENSE para mais detalhes.
+
+
+---
+
+🧙‍♂️ Criador
+
+Ítalo Clemente — Filósofo, desenvolvedor simbiótico e fundador do conceito Gaia-Techné × LEF.
+🔗 github.com/italosantosclemente
+
+
+---
+
